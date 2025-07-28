@@ -1,0 +1,27 @@
+# ⏰ Alarm by Madhuri
+
+A clean and minimal web-based alarm clock built using **HTML**, **CSS**, and **JavaScript**.
+
+## 🔥 Features
+
+- ⏱️ Live Digital Clock
+- ⏰ Set Alarm with Custom Title
+- 🔊 Upload Your Own Alarm Sound
+- 🛑 Stop Alarm & Test Sound Feature
+- 📱 Responsive UI with sleek dark mode
+
+## 📸 Screenshot
+
+![screenshot](screenshot.png) 
+## 🚀 Try It Out
+
+👉 [Live Demo](https://madhuri967.github.io/Alarm_by_madhuri/) 
+<!-- [Click here to try it online(https://madhuri967.github.io/Alarm_by_madhuri/) -->
+
+## 💻 How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/madhuri967/Alarm_by_madhuri.git
+cd alarm 
